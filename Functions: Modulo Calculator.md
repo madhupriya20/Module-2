@@ -25,4 +25,4 @@ b = int(input())
 ![438832285-075c2ff7-e4b6-43d1-b6b6-187cbda60cc4](https://github.com/user-attachments/assets/4558c695-243f-4633-ae7f-520001ccdb6c)
 
 ## Result
-Thus,the program is executed suucessfully.
+Thus,the program is executed Successfully.
